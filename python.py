@@ -69,7 +69,7 @@ y = """1 "Hey Brus"
 """
 print(y)
 
-x = "Hey Brus"
+x = "Hey Bruh"
 print(x[2])
 print(len(x))
 print("Hey" in x)
